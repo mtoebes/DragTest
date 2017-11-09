@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DragTest</string>
+    <item name="jewel_view" type="id"/>
+</resources>
